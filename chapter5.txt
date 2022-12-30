@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this is in master branch
+=======
+hi this is chapter 5
+>>>>>>> shafance
